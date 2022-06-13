@@ -5,10 +5,8 @@ Function to perform different function on the compressed data and compare it to 
 
 - GDDpython is a jupyter notebook that contains the bulk of the work.
 - Bearing data is the original data set worked on
-
-CompressedData is the bearing that but compressed by the GDD, for 0-32 deviation bits. It its .npz files.
-
-helpFunctions contains function used throuout the project.
+- CompressedData is the bearing that but compressed by the GDD, for 0-32 deviation bits. It its .npz files.
+- helpFunctions contains function used throuout the project.
 
 
 If any help is wished, feel free to contact me at 
